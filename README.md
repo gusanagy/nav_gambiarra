@@ -3,6 +3,11 @@
 
 This ROS2 Python package implements a robot navigation system that can move through multiple waypoints while avoiding obstacles using laser scan data. The robot intelligently decides which direction to turn when avoiding obstacles based on the target position.
 
+### Video
+
+![project video on youtube](https://youtu.be/RBJtWjWMlUI)
+
+
 ## Features
 
 - Waypoint navigation with configurable target positions

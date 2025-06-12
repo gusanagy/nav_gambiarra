@@ -5,7 +5,7 @@ This ROS2 Python package implements a robot navigation system that can move thro
 
 ### Video
 
-![project video on youtube](https://youtu.be/RBJtWjWMlUI)
+[project video on youtube](https://youtu.be/RBJtWjWMlUI)
 
 
 ## Features
